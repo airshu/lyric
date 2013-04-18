@@ -5,7 +5,13 @@
 	<projects>
 	</projects>
 	<buildSpec>
+		<buildCommand>
+			<name>com.adobe.flexbuilder.project.flexbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
 	</buildSpec>
 	<natures>
+		<nature>com.adobe.flexbuilder.project.actionscriptnature</nature>
 	</natures>
 </projectDescription>

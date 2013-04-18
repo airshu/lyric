@@ -5,6 +5,8 @@ lyric
 
 
 
-asdff
+1、解析酷狗音乐Krc格式歌词
 
-asdfasf
+
+
+2、解析QQ音乐Qrc格式歌词
